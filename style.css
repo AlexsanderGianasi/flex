@@ -3,6 +3,8 @@
 .container {
     display: flex;
     background-color: #525252;
+    flex-direction: row-reverse;
+    flex-wrap: wrap-reverse;
 }
 
 div.item {
